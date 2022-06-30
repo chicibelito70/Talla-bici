@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.Nav{
+
+  background-color: #8EECF5;
+}
+.Main-container{
+  background-image: url("../Img/Bicicleta.jpg"); 
+  padding: 23%;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align:center;
+  
+}
+
+.Formulario{
+text-align: center;
+
+}
